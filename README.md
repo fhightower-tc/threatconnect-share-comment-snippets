@@ -1,10 +1,15 @@
-# ThreatConnect Sublime Text Snippets
+# ThreatConnect Share Comment Snippets
 
 These are Sublime Text [snippets](docs.sublimetext.info/en/latest/extensibility/snippets.html) for writing share comments in [ThreatConnect](https://app.threatconnect.com/).
 
+## Installation
+
+1. Package Control
+    1. This package is available on [Package Control](https://packagecontrol.io) under the name "ThreatConnect Share Comment".
+2. Manual Installation:
+    1. `cd` into your Sublime Text packages directory (see [https://stackoverflow.com/questions/7808452/what-is-the-full-path-to-the-packages-folder-for-sublime-text-2-on-mac-os-lion](https://stackoverflow.com/questions/7808452/what-is-the-full-path-to-the-packages-folder-for-sublime-text-2-on-mac-os-lion) for more details).
+    2. Clone this repository: `git clone git@github.com:fhightower/threatconnect-share-comment-snippets.git`.
+
 ## Usage
 
-To use these snippets:
-
-1. Clone this repository
-2. Move the `TC` folder in your `Packages/User/Snippets` folder (or anywhere inside Sublime Text's `Packages/` directory).
+Each snippet is prefixed with "*tc-*", so just start typing "*tc-*" followed by the indicator, group, or object type to which you would like to link. By default, each of these snippets will position the cursor such that you can type or paste the name of the item to which you are linking. Hitting <TAB> will take you to the end of the snippet so you can continue typing.
