@@ -4,11 +4,13 @@ These are Sublime Text [snippets](docs.sublimetext.info/en/latest/extensibility/
 
 ## Installation
 
-1. Package Control
+1. Package Control (*Preferred*)
     1. This package is available on [Package Control](https://packagecontrol.io) under the name "ThreatConnect Share Comments".
 2. Manual Installation:
     1. `cd` into your Sublime Text packages directory (see [https://stackoverflow.com/questions/7808452/what-is-the-full-path-to-the-packages-folder-for-sublime-text-2-on-mac-os-lion](https://stackoverflow.com/questions/7808452/what-is-the-full-path-to-the-packages-folder-for-sublime-text-2-on-mac-os-lion) for more details).
-    2. Clone this repository: `git clone git@github.com:fhightower/threatconnect-share-comment-snippets.git`.
+    2. Clone this repository:
+
+    `git clone https://github.com/fhightower/threatconnect-share-comment-snippets.git`.
 
 ## Usage
 
