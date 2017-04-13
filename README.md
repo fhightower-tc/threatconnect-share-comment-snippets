@@ -12,6 +12,29 @@ These are Sublime Text [snippets](docs.sublimetext.info/en/latest/extensibility/
 
     `git clone https://github.com/fhightower/threatconnect-share-comment-snippets.git`.
 
+## Available Links
+
+- Groups:
+  - Adversaries (`tc-adversary`)
+  - Campaigns (`tc-campaign`)
+  - Documents (`tc-document`)
+  - Emails (`tc-email`)
+  - Incidents (`tc-incident`)
+  - Signatures (`tc-signature`)
+  - Threats (`tc-threat`)
+- Indicators:
+  - Addresses (`tc-address`)
+  - Email Addresses (`tc-emailaddress`)
+  - Files (`tc-file`)
+  - Hosts (`tc-host`)
+  - URLs (`tc-url`)
+- Tags (`tc-tag`)
+- Tasks (`tc-task`)
+- Tracks (`tc-track`)
+- Victim (`tc-victim`)
+- Tracks (`tc-track`)
+- @this (`tc-this`) - this gets converted to the name of the owner into which the comment is posted
+
 ## Usage
 
-Each snippet is prefixed with "*tc-*", so just start typing "*tc-*" followed by the indicator, group, or object type to which you would like to link. By default, each of these snippets will position the cursor such that you can type or paste the name of the item to which you are linking. Hitting <TAB> will take you to the end of the snippet so you can continue typing.
+Each snippet is prefixed with "*tc-*", so just start typing "*tc-*" followed by the indicator, group, or object type to which you would like to link. By default, each of these snippets will position the cursor such that you can type or paste the name/ID of the item to which you are linking. Hitting <TAB> will take you to the end of the snippet so you can continue typing.
