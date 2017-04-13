@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[threat:${1}]]${2}
+[[threat:${1:<THREAT_ID>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-threat</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[campaign:${1}]]${2}
+[[campaign:${1:<CAMPAIGN_ID>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-campaign</tabTrigger>

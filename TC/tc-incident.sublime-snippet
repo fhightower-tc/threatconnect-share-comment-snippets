@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[incident:${1}]]${2}
+[[incident:${1:<INCIDENT_ID>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-incident</tabTrigger>

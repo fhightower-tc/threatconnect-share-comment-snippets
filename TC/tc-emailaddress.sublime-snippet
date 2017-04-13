@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[emailaddress:${1}]]${2}
+[[emailaddress:${1:<EMAIL_ADDRESS>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-emailaddress</tabTrigger>

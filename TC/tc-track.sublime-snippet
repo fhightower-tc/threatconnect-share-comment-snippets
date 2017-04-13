@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[track:${1}]]${2}
+[[track:${1:<TRACK_NAME>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-track</tabTrigger>

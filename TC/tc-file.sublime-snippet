@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[file:${1}]]${2}
+[[file:${1:<FILE_HASH>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-file</tabTrigger>
