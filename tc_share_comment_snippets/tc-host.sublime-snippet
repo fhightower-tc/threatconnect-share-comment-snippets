@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-[[host:${1:<HOST>]]${2}
+[[host:${1:<HOST>}]]${2}
 ]]></content>
     <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>tc-host</tabTrigger>
